@@ -1,9 +1,9 @@
-[submodule "FastVRTest"]
-	path = FastVRTest
-	url = git@github.com:tjschweitzer/FastVRTest.git
-[submodule "FDS2UnityTool"]
-	path = FDS2UnityTool
-	url = git@github.com:SERDP-Closing-Gaps/FDS2UnityTool.git
 [submodule "Masters-Thesis"]
 	path = Masters-Thesis
 	url = git@github.com:tjschweitzer/Masters-Thesis.git
+[submodule "FDS2PreUnity"]
+	path = FDS2PreUnity
+	url = git@github.com:tjschweitzer/FDS2PreUnity.git
+[submodule "FDS2UnityVR"]
+	path = FDS2UnityVR
+	url = git@github.com:tjschweitzer/FDS2UnityVR.git
